@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Jun 17 14:26:58 CST 2018
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=F\:\\MyEclipse Blue 2014\\picDrage\\picDrage_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.global.fairy.puzzle.Setup
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
